@@ -1,0 +1,11 @@
+@charset "UTF-8";
+
+@font-face {
+  font-family: 'Lato';
+  src: local('Lato Black'), local('Lato-Black'),
+  url('../../fonts/lato-900-normal.woff2') format('woff2'),
+  url('../../fonts/lato-900-normal.woff') format('woff'),
+  url('../../fonts/lato-900-normal.ttf') format('truetype');
+  font-weight: 900;
+  font-style: normal;
+}

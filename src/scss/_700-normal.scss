@@ -1,0 +1,11 @@
+@charset "UTF-8";
+
+@font-face {
+  font-family: 'Lato';
+  src: local('Lato Bold'), local('Lato-Bold'),
+  url('../../fonts/lato-700-normal.woff2') format('woff2'),
+  url('../../fonts/lato-700-normal.woff') format('woff'),
+  url('../../fonts/lato-700-normal.ttf') format('truetype');
+  font-weight: 700;
+  font-style: normal;
+}
